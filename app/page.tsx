@@ -157,7 +157,7 @@ export default function Main() {
                 </Link>
                 </div>
             </div>
-            <div className="col-span-6">
+            <div className="col-span-6 hidden md:flex">
                 <video id="applyVideoContent" className="mx-auto h-64 w-full max-w-xl sm:h-96" autoPlay muted loop playsInline preload="none">
                     <source src="/207fa6df-2d62-4f2a-ad52-769580e89e38.webm" type="video/webm" />
                 </video>

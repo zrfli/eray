@@ -8,7 +8,7 @@ export default function Header(){
               <div className="flex justify-between items-center">
                   <Logo LogoClass="h-auto w-40 dark:invert" />
               </div>
-              <div className="flex gap-10 items-center">
+              <div className="md:flex gap-10 items-center hidden">
                 <Link href="/" className="font-medium text-black hover:text-black/80 dark:text-neutral-200 dark:hover:text-neutral-300">
                   Ana Sayfa
                 </Link>

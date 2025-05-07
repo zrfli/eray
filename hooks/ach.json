@@ -1,0 +1,39 @@
+[
+    {
+      "id": "27",
+      "data": {
+        "slug": "yapay-zeka-ve-saglik-sektoru-2024",
+        "announcement": "important",
+        "imageUrl": "/5.jpeg",
+        "date": "22/06/2024",
+        "title": "Yapay Zeka ve Sağlık Sektörü 2024",
+        "description": "Yapay zeka, sağlık sektöründe önemli değişiklikler yaratıyor. Erken teşhis, tedavi planlaması ve hasta takibi gibi alanlarda yapay zeka kullanımı artıyor.",
+        "extraContent": "Yapay zeka, sağlık sektöründe hastalıkların erken teşhisinden, tedavi süreçlerinin optimize edilmesine kadar birçok alanda devrim yaratıyor. 2024 yılı itibarıyla, hastalıkların teşhisi için geliştirilen yapay zeka tabanlı uygulamalar daha yaygın hale geliyor. Özellikle, kanser ve kardiyovasküler hastalıklar gibi kritik hastalıkların erken teşhisi, hayat kurtarıcı olabilir. Ayrıca, yapay zeka ile hastaların tedavi süreçleri izleniyor ve tedavi planları daha hızlı bir şekilde oluşturulabiliyor."
+      }
+    },
+    {
+      "id": "28",
+      "data": {
+        "slug": "egitimde-teknoloji-2024",
+        "announcement": "new",
+        "imageUrl": "/6.jpeg",
+        "date": "15/06/2024",
+        "title": "Eğitimde Teknoloji 2024",
+        "description": "Teknoloji, eğitimdeki yenilikleri hızlandırıyor. Dijital sınıflar, uzaktan eğitim ve etkileşimli materyaller sayesinde öğrenme deneyimi daha zengin hale geliyor.",
+        "extraContent": "2024 yılı itibarıyla, eğitim sektörü teknoloji ile hızlı bir şekilde dönüşüyor. Özellikle, dijital sınıflar ve uzaktan eğitim sistemleri, dünya çapında öğrencilere daha erişilebilir hale geliyor. Öğrenciler, etkileşimli materyaller ve VR/AR teknolojileriyle daha derinlemesine öğrenme fırsatları yakalıyor. Öğretmenler ise yapay zeka destekli araçlarla öğrenci performansını daha etkili bir şekilde takip edebiliyor. Bu gelişmeler, eğitimde kaliteyi artırarak, küresel anlamda eğitim eşitsizliğini azaltmayı hedefliyor."
+      }
+    },
+    {
+      "id": "29",
+      "data": {
+        "slug": "siber-guvenlik-ve-yeni-tehditler-2024",
+        "announcement": "new",
+        "imageUrl": "/7.jpeg",
+        "date": "10/06/2024",
+        "title": "Siber Güvenlik ve Yeni Tehditler 2024",
+        "description": "Siber güvenlik, 2024'te daha kritik bir hale geliyor. Yeni nesil siber tehditler, şirketlerin ve bireylerin güvenliğini tehdit ediyor.",
+        "extraContent": "2024 yılı itibarıyla, siber güvenlik daha da önemli bir konu haline geliyor. Yeni nesil siber tehditler, şirketlerin ve bireylerin dijital güvenliğini tehdit ediyor. Özellikle, fidye yazılımları, kimlik avı saldırıları ve siber casusluk gibi tehditler artmış durumda. Bu tehditlere karşı savunma geliştirmek için şirketler, yapay zeka ve makine öğrenimi gibi yeni teknolojileri kullanarak daha akıllı güvenlik sistemleri oluşturuyor. Ayrıca, kişisel veri güvenliği ve gizliliği de her geçen gün daha büyük bir önem kazanıyor."
+      }
+    }
+  ]
+  

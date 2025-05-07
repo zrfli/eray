@@ -1,0 +1,39 @@
+[
+    {
+      "id": "1",
+      "data": {
+        "slug": "2024-enerji-sektoru-yatirimlarinda-buyume",
+        "announcement": "new",
+        "imageUrl": "/1.svg",
+        "date": "20/07/2024",
+        "title": "2024 Enerji Sektöründe Yatırımlar Artıyor",
+        "description": "2024 yılı, yeşil enerji yatırımlarında önemli bir büyüme yaşandı. Güneş ve rüzgar enerjisi projelerine yapılan yatırımlar, dünya çapında artış gösteriyor.",
+        "extraContent": "Son yıllarda, enerji sektöründe büyük bir dönüşüm yaşanıyor. Yenilenebilir enerjiye yapılan yatırımlar, fosil yakıtlara olan bağımlılığı azaltmayı hedefliyor. Özellikle Avrupa, Asya ve Kuzey Amerika'daki birçok ülke, 2024 yılı itibarıyla yeşil enerji projelerine milyarlarca dolar yatırım yapmayı planlıyor. Bu yatırım dalgası, uzun vadede çevre dostu enerji üretim kapasitelerinin arttırılmasına ve fosil yakıtların yerini alacak yenilikçi teknolojilerin geliştirilmesine olanak tanıyacak."
+      }
+    },
+    {
+      "id": "2",
+      "data": {
+        "slug": "global-teknoloji-sirketleri-sosyal-sorumluluk-projelerine-yatirim-yapiyor",
+        "announcement": "important",
+        "imageUrl": "/2.svg",
+        "date": "15/07/2024",
+        "title": "Global Teknoloji Şirketleri Sosyal Sorumluluk Projelerine Yatırım Yapıyor",
+        "description": "Büyük teknoloji firmaları, çevresel ve toplumsal sorumluluk projelerine olan yatırımlarını artırıyor. Bu adım, şirketlerin sürdürülebilirlik hedeflerine ulaşmalarında kritik rol oynuyor.",
+        "extraContent": "Teknoloji şirketlerinin sosyal sorumluluk projelerine yatırım yapması, son yıllarda büyük bir trend haline geldi. Google, Microsoft ve Apple gibi dev firmalar, yalnızca kar odaklı değil, aynı zamanda çevresel ve toplumsal fayda sağlayacak projelere de büyük yatırımlar yapmaya başladı. Bu şirketler, bu tür projelerle hem çevreyi korumaya hem de global toplumda daha adil bir etki yaratmaya çalışıyorlar. Sosyal sorumluluk, artık teknoloji dünyasında bir prestij göstergesi haline gelmiş durumda."
+      }
+    },
+    {
+      "id": "3",
+      "data": {
+        "slug": "yapay-zeka-ve-finansal-teknolojilerde-yeni-bir-donem",
+        "announcement": "new",
+        "imageUrl": "/3.svg",
+        "date": "10/07/2024",
+        "title": "Yapay Zeka ve Finansal Teknolojilerde Yeni Bir Dönem Başladı",
+        "description": "Fintech ve yapay zeka entegrasyonu, finans sektöründe köklü değişiklikler yaratmaya başladı. Bankalar, yeni teknolojileri kullanarak daha hızlı ve güvenli hizmet sunmayı hedefliyor.",
+        "extraContent": "Yapay zeka ve blockchain teknolojilerinin finans sektörüne entegrasyonu, geleneksel bankacılık hizmetlerinin çok ötesine geçerek daha hızlı, şeffaf ve güvenli finansal hizmetler sunuyor. Yapay zeka, bankaların müşteri hizmetlerini geliştirmelerine yardımcı olurken, aynı zamanda finansal analiz ve risk yönetimi konusunda önemli katkılar sağlıyor. Ayrıca, blockchain teknolojisi ile yapılan işlemler, verilerin daha güvenli ve şeffaf bir şekilde saklanmasını sağlıyor. Bu dönüşüm, bankacılığın geleceğini şekillendirecek ve daha fazla kullanıcıyı sisteme dahil edecek."
+      }
+    }
+  ]
+  

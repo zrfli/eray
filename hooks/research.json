@@ -1,0 +1,75 @@
+[
+    {
+      "id": "20",
+      "data": {
+        "slug": "5g-teknolojisi-ve-is-dunyasi",
+        "announcement": "new",
+        "imageUrl": "/images.png",
+        "date": "05/06/2024",
+        "title": "5G Teknolojisi ve İş Dünyası",
+        "description": "5G teknolojisi, iş dünyasında yeni fırsatlar yaratıyor. Hızlı internet bağlantıları, şirketlere rekabet avantajı sağlıyor.",
+        "extraContent": "5G, özellikle veri transfer hızları ve düşük gecikme süreleri ile iş dünyasında devrim yaratacak. Şirketler, hızlı internet bağlantıları sayesinde daha verimli çalışabilecek, uzaktan çalışan ekiplerin entegrasyonu daha kolay hale gelecek. Ayrıca, 5G'nin sağlık, üretim ve lojistik gibi sektörlerde kullanımının artması, bu alanlarda verimlilik artışı sağlayacak. 2024 yılı itibarıyla, 5G altyapısı dünya çapında hızla yaygınlaşarak şirketlerin iş süreçlerini dönüştürmeye devam edecek."
+      }
+    },
+    {
+      "id": "21",
+      "data": {
+        "slug": "blockchain-ve-finans-sektoru-2024",
+        "announcement": "important",
+        "imageUrl": "/images.png",
+        "date": "30/05/2024",
+        "title": "Blockchain ve Finans Sektörü 2024",
+        "description": "Blockchain teknolojisi, finans sektöründe devrim yaratmaya devam ediyor. Şirketler güvenli ve şeffaf işlem süreçleri için blockchain'i kullanıyor.",
+        "extraContent": "Blockchain, finans sektöründe güvenli, şeffaf ve verimli işlem süreçleri sağlayarak devrim yaratıyor. 2024 yılı itibarıyla, dijital varlıklar, akıllı sözleşmeler ve kripto paralar finansal sistemlerin bir parçası haline geliyor. Özellikle bankalar, uluslararası ödeme sistemlerinde blockchain teknolojisini kullanarak işlemleri hızlandırıyor ve maliyetleri düşürüyor. Bu değişiklikler, finansal hizmetlere olan güveni artırırken, şirketlerin daha hızlı ve güvenilir işlemler yapmalarını sağlıyor."
+      }
+    },
+    {
+      "id": "22",
+      "data": {
+        "slug": "dijital-para-ve-ekonomi-2024",
+        "announcement": "new",
+        "imageUrl": "/images.png",
+        "date": "25/05/2024",
+        "title": "Dijital Para ve Ekonomi 2024",
+        "description": "Dijital para, küresel ekonomiyi etkiliyor. Kripto paralar ve dijital merkez bankası paraları ekonomi dünyasında büyüyen bir trend.",
+        "extraContent": "2024 yılı itibarıyla dijital para, finansal sistemin önemli bir parçası haline geldi. Kripto paralar, dijital merkez bankası paraları (CBDC'ler) ve dijital ödemeler, küresel ekonomi üzerinde büyük bir etki yaratıyor. Merkez bankaları, dijital para birimlerini benimseyerek, ödeme sistemlerini daha hızlı ve güvenli hale getiriyor. Ayrıca, dijital paraların benimsenmesi, uluslararası ticaretin kolaylaşmasını sağlayarak, farklı ülkeler arasında finansal işlemleri hızlandırıyor."
+      }
+    },
+    {
+      "id": "23",
+      "data": {
+        "slug": "yapay-zeka-ve-yeni-istihdam-alanlari",
+        "announcement": "important",
+        "imageUrl": "/images.png",
+        "date": "18/05/2024",
+        "title": "Yapay Zeka ve Yeni İstihdam Alanları",
+        "description": "Yapay zeka, yeni iş alanları yaratıyor. İnsanlar ve makineler birlikte çalışarak daha verimli ve yaratıcı projeler üretiyor.",
+        "extraContent": "Yapay zeka, otomasyonun artmasıyla birlikte birçok sektörde istihdamı dönüştürüyor. Ancak, bu teknolojilerin iş gücü üzerindeki etkisi, yeni iş alanları yaratmak ve beceri geliştirmek üzerine odaklanıyor. 2024 yılında, yapay zeka ve robot teknolojileri sayesinde veri bilimcisi, yapay zeka mühendisleri, robot teknikerleri gibi yeni meslekler ortaya çıkıyor. Şirketler, bu yeni iş alanlarında istihdam yaratırken, çalışanların da yapay zeka ile uyumlu beceriler edinmesi önem kazanıyor."
+      }
+    },
+    {
+      "id": "24",
+      "data": {
+        "slug": "yeni-dijital-pazarlama-stratejileri-2024",
+        "announcement": "new",
+        "imageUrl": "/images.png",
+        "date": "12/05/2024",
+        "title": "Yeni Dijital Pazarlama Stratejileri 2024",
+        "description": "Dijital pazarlama, 2024'te daha da kişiselleşiyor. Markalar, müşterilere özel deneyimler sunarak daha etkili kampanyalar düzenliyor.",
+        "extraContent": "Dijital pazarlama, 2024 yılı itibarıyla daha verimli hale geliyor. Markalar, müşterilere daha kişiselleştirilmiş deneyimler sunmak için yapay zeka ve veri analitiği kullanıyor. Sosyal medya platformları, e-posta pazarlaması ve arama motoru optimizasyonu gibi dijital pazarlama araçları, müşteri etkileşimini artırmak için daha hedeflenmiş bir şekilde kullanılıyor. Ayrıca, video içeriklerinin popülerliği artarken, influencer pazarlama stratejileri de büyük bir rol oynamaya devam ediyor."
+      }
+    },
+    {
+      "id": "25",
+      "data": {
+        "slug": "yeni-teknolojiler-ve-turizm-sektoru-2024",
+        "announcement": "important",
+        "imageUrl": "/images.png",
+        "date": "05/05/2024",
+        "title": "Yeni Teknolojiler ve Turizm Sektörü 2024",
+        "description": "Yeni teknolojiler, turizm sektöründe deneyimi iyileştiriyor. Akıllı oteller, dijital turlar ve sanal gerçeklik ile seyahat deneyimi değişiyor.",
+        "extraContent": "2024 yılı itibarıyla, teknoloji, turizm sektöründe devrim yaratıyor. Akıllı oteller, misafirlerine dijital check-in, oda kontrol sistemleri ve kişiselleştirilmiş hizmetler sunuyor. Sanal gerçeklik, turistlerin seyahat etmeye karar vermeden önce destinasyonları sanal ortamda keşfetmelerine olanak tanıyor. Ayrıca, dijital turlar ve mobil uygulamalar sayesinde, seyahat deneyimi daha interaktif ve erişilebilir hale geliyor. Bu gelişmeler, turistlerin daha bilinçli seçimler yapmalarını sağlıyor ve sektörün daha sürdürülebilir bir geleceğe adım atmasını sağlıyor."
+      }
+    }
+  ]
+  

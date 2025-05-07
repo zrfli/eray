@@ -1,0 +1,59 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-3d09e998b6221e12.js",
+      "static/chunks/4bd1b696-6656c00020a6602a.js",
+      "static/chunks/684-c9ca6980a8c9f666.js",
+      "static/chunks/main-app-e1b92a4af70be053.js",
+      "static/chunks/app/_not-found/page-5bd66f198487fbee.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-3d09e998b6221e12.js",
+      "static/chunks/4bd1b696-6656c00020a6602a.js",
+      "static/chunks/684-c9ca6980a8c9f666.js",
+      "static/chunks/main-app-e1b92a4af70be053.js",
+      "static/css/8282d53313165327.css",
+      "static/chunks/app/layout-f304f65ea0365277.js"
+    ],
+    "/hizmet-yonetimi/page": [
+      "static/chunks/webpack-3d09e998b6221e12.js",
+      "static/chunks/4bd1b696-6656c00020a6602a.js",
+      "static/chunks/684-c9ca6980a8c9f666.js",
+      "static/chunks/main-app-e1b92a4af70be053.js",
+      "static/chunks/992-719a2e1a8749d0a5.js",
+      "static/chunks/app/hizmet-yonetimi/page-e94660a3a17680f9.js"
+    ],
+    "/hakkimizda/page": [
+      "static/chunks/webpack-3d09e998b6221e12.js",
+      "static/chunks/4bd1b696-6656c00020a6602a.js",
+      "static/chunks/684-c9ca6980a8c9f666.js",
+      "static/chunks/main-app-e1b92a4af70be053.js",
+      "static/chunks/992-719a2e1a8749d0a5.js",
+      "static/chunks/app/hakkimizda/page-b799c9a581b4c25a.js"
+    ],
+    "/kvkk/page": [
+      "static/chunks/webpack-3d09e998b6221e12.js",
+      "static/chunks/4bd1b696-6656c00020a6602a.js",
+      "static/chunks/684-c9ca6980a8c9f666.js",
+      "static/chunks/main-app-e1b92a4af70be053.js",
+      "static/chunks/992-719a2e1a8749d0a5.js",
+      "static/chunks/app/kvkk/page-d1fe749a0c26c09d.js"
+    ],
+    "/news/[slug]/page": [
+      "static/chunks/webpack-3d09e998b6221e12.js",
+      "static/chunks/4bd1b696-6656c00020a6602a.js",
+      "static/chunks/684-c9ca6980a8c9f666.js",
+      "static/chunks/main-app-e1b92a4af70be053.js",
+      "static/chunks/992-719a2e1a8749d0a5.js",
+      "static/chunks/app/news/[slug]/page-799a06af1882e816.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-3d09e998b6221e12.js",
+      "static/chunks/4bd1b696-6656c00020a6602a.js",
+      "static/chunks/684-c9ca6980a8c9f666.js",
+      "static/chunks/main-app-e1b92a4af70be053.js",
+      "static/chunks/992-719a2e1a8749d0a5.js",
+      "static/chunks/app/page-3683136d6e4380d8.js"
+    ]
+  }
+}

@@ -15,7 +15,7 @@ export default function InstagramCard() {
                         Etkinliklerimizden haberdar olun, sahne arkası ve güncel paylaşımlar için bizi takip edin.
                         </p>
                         <div className="flex items-center justify-center space-x-4 lg:justify-start">
-                            <Link prefetch={true} href="apply" rel="noopener noreferrer" className="inline-flex items-center gap-1 text-sm font-medium underline underline-offset-4 text-black dark:text-gray-300 hover:no-underline">
+                            <Link href="https://instagram.com/eraycloud" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1 text-sm font-medium underline underline-offset-4 text-black dark:text-gray-300 hover:no-underline">
                                 Profili Görüntüle
                                 <svg width="7" viewBox="0 0 6 6" height="7" aria-hidden="true">
                                     <path fill="currentColor" d="m1.252 5.547-.63-.63 3.16-3.161H1.383L1.39.891h3.887v3.89h-.87l.005-2.396z"></path>

@@ -148,7 +148,6 @@ export default function Main() {
         <div className="px-4 mx-auto max-w-screen-xl">
             <div className="flex items-center justify-between mb-8">
             <h1 className="text-3xl font-extrabold tracking-tight text-gray-900 md:text-4xl dark:text-white">Etkinlikler</h1>
-            <Link prefetch={true} href="/events" rel="noopener noreferrer" className="inline-flex items-center font-medium underline underline-offset-4 text-black dark:text-gray-300 hover:no-underline">Tümünü gör</Link>
             </div>
             <div id="eventsContent" className="grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
             {events.map((data, id) => (
@@ -172,7 +171,6 @@ export default function Main() {
         <div className="px-4 mx-auto max-w-screen-xl">
             <div className="flex items-center justify-between mb-8">
             <h1 className="text-3xl font-extrabold tracking-tight text-gray-900 md:text-4xl dark:text-white">Araştırmalar</h1>
-            <Link prefetch={true} href="/research" rel="noopener noreferrer" className="inline-flex items-center font-medium underline underline-offset-4 text-black dark:text-gray-300 hover:no-underline">Tümünü gör</Link>
             </div>
             <div id="researchContent" className="grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
             {research.map((data, id) => (
@@ -194,7 +192,6 @@ export default function Main() {
         <div className="px-4 mx-auto max-w-screen-xl">
             <div className="flex items-center justify-between mb-8">
                 <h1 className="text-3xl font-extrabold tracking-tight text-gray-900 md:text-4xl dark:text-white">Başarılar</h1>
-                <Link prefetch={true} href="/achievements" rel="noopener noreferrer" className="inline-flex items-center font-medium underline underline-offset-4 text-black dark:text-gray-300 hover:no-underline">Tümünü gör</Link>
             </div>
             <div id="achievementsContent" className="grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
             {ach.map((data, id) => (

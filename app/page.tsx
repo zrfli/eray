@@ -70,7 +70,7 @@ export default function Main() {
                         <IoArrowForward className="text-black dark:text-white h-5 w-5" />
                     </Link>
                   <Link href="#" className="hover:bg-neutral-100 dark:hover:bg-neutral-800/80 dark:bg-neutral-800 mb-3 flex items-center justify-between rounded-lg border-l-8 bg-neutral-50 p-3 shadow border dark:border-neutral-700 border-neutral-400" target="_blank" rel="noopener noreferrer">
-                        <span className="text-black dark:text-white text-xs md:text-base font-medium">bütçe Yönetimi</span>
+                        <span className="text-black dark:text-white text-xs md:text-base font-medium">Bütçe Yönetimi</span>
                         <IoArrowForward className="text-black dark:text-white h-5 w-5" />
                     </Link>
                   <Link href="#" className="hover:bg-neutral-100 dark:hover:bg-neutral-800/80 dark:bg-neutral-800 mb-3 flex items-center justify-between rounded-lg border-l-8 bg-neutral-50 p-3 shadow border dark:border-neutral-700 border-neutral-400" target="_blank" rel="noopener noreferrer">

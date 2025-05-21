@@ -38,7 +38,7 @@ export default function Main({ params }: { params: Promise<{ slug: string }> }) 
     return (
         <>
             <Header />
-            <section className="w-full h-64 bg-no-repeat bg-cover bg-center relative border-b bg-gray-300 bg-blend-multiply border-gray-700 bg-[url('/icheader-bg.jpg')]">
+            <section className="w-full h-64 bg-no-repeat bg-cover bg-center relative border-b bg-gray-300 bg-blend-multiply border-gray-700 bg-[url('/red.png')]">
                 <div className="absolute top-20 left-1/2 px-4 mx-auto w-full max-w-screen-xl -translate-x-1/2 xl:top-1/2 xl:-translate-y-1/2 xl:px-0">
                     <h1 className="mb-4 max-w-4xl text-3xl font-extrabold text-white">{randomTitle ?? 'Error'}</h1>
                     <p className="font-normal text-gray-300">{newsSlug ?? 'Error'}</p>

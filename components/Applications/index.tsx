@@ -35,7 +35,7 @@ export function Application() {
                     </SheetDescription>
                 </SheetHeader>
                 {loading ? (
-                    <div className="flex items-center justify-center">
+                    <div className="flex items-center justify-center p-4">
                         <div className="h-56 w-96 rounded-xl border p-2 shadow-xl">
                             <div className="flex h-full flex-col gap-4">
                             <div className="flex justify-center items-center">

@@ -70,7 +70,7 @@ export function Application() {
                         </div>
                     </div>
                 ) : (
-                    <div className="grid gap-4 py-4 w-full h-full justify-center">
+                    <div className="grid gap-4 py-4 w-full h-full justify-center p-4">
                         <div className="grid grid-cols-4 items-center gap-4">
                             <Label htmlFor="tc" className="text-right">T.C. Kimlik Numarası</Label>
                             <Input id="tc" className="col-span-3" onChange={(e) => setTc(e.target.value)} />

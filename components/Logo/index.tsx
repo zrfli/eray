@@ -6,7 +6,7 @@ interface LogoProps { LogoClass?: string }
 export const Logo = ({ LogoClass }: LogoProps) => {
     return (
         <Link href='/' >
-            <Image priority className={`${LogoClass}`} src={'/logo.png'} width={120} height={60} alt="" unoptimized />
+            <Image priority className={`${LogoClass}`} src={'/logo_yatay.png'} width={250} height={250} alt="" unoptimized />
         </Link>
     )
 }

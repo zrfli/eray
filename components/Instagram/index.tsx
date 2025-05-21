@@ -25,7 +25,7 @@ export default function InstagramCard() {
                     </div>
                     <div className="col-span-6">
                         <div className="flex justify-center">
-                            <InstagramEmbed url="https://www.instagram.com/p/DJW0Yb8MRhd/" width={328} />
+                            <InstagramEmbed url="https://www.instagram.com/p/DJ6nPrZsV7m/" width={328} />
                         </div>
                     </div>
                 </div>

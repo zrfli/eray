@@ -104,6 +104,20 @@ export default function Main() {
                 </div>
             </div>
         </section>
+        <section aria-label="apply" className="py-6">
+            <div className="px-4 mx-auto max-w-screen-xl">
+                <div className="grid items-center gap-8 lg:grid-cols-12 lg:gap-12">
+                <div className="col-span-6 text-center lg:text-left">
+                    <h2 className="mb-4 text-4xl font-extrabold leading-tight tracking-tight text-black dark:text-white md:text-5xl lg:text-6xl underline">Gelecek için bir adım...</h2>
+                </div>
+                <div className="col-span-6">
+                    <video id="applyVideoContent" className="mx-auto h-64 w-full max-w-xl sm:h-96" autoPlay controls muted loop playsInline>
+                        <source src="/video.mp4" type="video/mp4" />
+                    </video>
+                </div>
+                </div>
+            </div>
+        </section>
         <section aria-label="news" className="py-12">
           <div className="px-4 mx-auto max-w-screen-xl">
               <div className="flex items-center justify-between mb-8">
